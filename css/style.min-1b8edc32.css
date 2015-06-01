@@ -76,7 +76,7 @@ html{font-family:sans-serif;font-size:100%;line-height:1.5}
 body{margin:0 auto;max-width:520px;position:relative;-webkit-flex-direction:column;-ms-flex-direction:column;flex-direction:column;padding-left:13px;padding-right:13px}
 @media screen and (min-width:924px) and (min-height:500px){body{max-width:1000px}
 .landing body{display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-align-items:center;-ms-flex-align:center;align-items:center;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}}
-@media screen and (min-height:476px){body{display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center}}
+@media screen and (min-height:476px){body{display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-justify-content:space-around;-ms-flex-pack:distribute;justify-content:space-around}}
 html.case{background:url(../img/site/space.jpg) top left no-repeat fixed;background-size:cover}
 html.case>*{color:#fff}
 .ggv-headline{margin:0;font-size:30px;font-weight:200;line-height:1}
